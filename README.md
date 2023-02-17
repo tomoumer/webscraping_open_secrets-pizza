@@ -1,3 +1,9 @@
+# Team DS 6 Project - with team Pizza
+
+This project was a collaboration between [Hayden Greer](https://github.com/hcgreer), [Monica Weiss-Sharp](https://github.com/MWeissSharp) and myself. We each worked on our individual branches and then consolidated the work into one.
+
+I deicded to keep the notebook "TU_webscrape_notebook.ipynb" as a measure of my own progress and changes that I've made along the way. For cleaner outlook on all results, refer to our final "pizza_webscrape_notebook.ipynb".
+
 # An Analysis of Political Contributions During the 2020 House of Representatives Election
 
 In this part, you will obtain as much data as you can on the campaign contributions received by each candidate. This data is avaiable through the website https://www.opensecrets.org/.
